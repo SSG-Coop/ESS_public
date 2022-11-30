@@ -31,6 +31,7 @@
 
 ## Links and Connectivity
 The model diagram can be navigated by following variable linked throughout the diagram. Refer to the following video for more detail
+
 [![](https://github.com/whatIfTechnologies/ESS_public/blob/cb5d6f428715aa092106a0f790ad5f30433e6259/Documentation/Connectivity%20video.jpg)](https://www.youtube.com/watch?v=IRO5ZW0ZF-8)
 
 * **Links from one calculator to another** - The yellow box with the solid border indicates this variable is used in another calculator. Double click to proceed to that calculator
