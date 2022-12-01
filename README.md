@@ -4,8 +4,8 @@
 
 # Opening model diagram and the Documenter Interface
 1. Double click the ESS.dmm file to open the model diagram in Documenter
-2. When open you will be using model hierarchy and the model diagram to navigate through the model structure as outlined in the video below
-3. Viewing the diagram in Documenter allows a user to explore and understand the model structure. It does not support running simulations and will not store or output data.
+
+When open you will be using the model hierarchy and the model diagram to navigate through the model structure as outlined in the video below. Viewing the diagram in Documenter allows a user to explore and understand the model structure. It does not support running simulations and will not store or output data.
 
 ![Alt text](https://github.com/whatIfTechnologies/ESS_public/blob/c3012f0b5208859692ce40318ca4162ca309136f/Documentation/documenter.jpg)
 
