@@ -1,5 +1,7 @@
 # Download and Installation
 1. Download files from the repository
+    * Click on the green "<> Code" button
+    * From the drop down list click "Download ZIP" <space>
 2. Run the whatIf_Setup_5.0.11.exe installation package
 
 # Opening model diagram and the Documenter Interface
